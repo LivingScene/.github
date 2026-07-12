@@ -1,12 +1,18 @@
-## Hi there 👋
+## LivingScene
 
-<!--
+**Presentations that come alive** — every slide is a real, interactive component, authored by talking
+to an AI and presented across screens.
 
-**Here are some ideas to get you started:**
+### What we're building
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **[livingscene.ai](https://livingscene.ai)** — the product story + waitlist.
+- **hub.livingscene.ai** — our internal founder/admin console.
+- A cross-platform **desktop app** for authoring and presenting live.
+
+### How we work
+
+Small team, real engineering discipline: trunk-based development, Conventional-Commit pull requests,
+squash-merge, CI + security scanning on every change, and reusable workflows shared across repos.
+
+→ **[Contributing guide](https://github.com/LivingScene/.github/blob/main/CONTRIBUTING.md)** ·
+**[Security policy](https://github.com/LivingScene/.github/blob/main/SECURITY.md)**
