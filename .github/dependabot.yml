@@ -1,0 +1,14 @@
+version: 2
+updates:
+  # Keep the reusable workflows' actions current + SHA-pinned. Grouped minor/patch;
+  # majors arrive as separate reviewable PRs (matches the org-wide policy).
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: weekly
+    groups:
+      actions:
+        patterns: ["*"]
+        update-types:
+          - "minor"
+          - "patch"
